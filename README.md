@@ -18,11 +18,11 @@ This project includes the complete process of database system design and develop
 
 ## Functional Requirements
 
-- ** Patient Search Function**
-- ** Add New Patient Function**
-- ** List All Patients Treated by a Specific Doctor**
-- ** Generate Payment Report Function**
-- ** Verify the Use of Indicators for Effective Performance**
-- ** Handle a Security Scenario in the Database**
+- **Patient Search Function**
+- **Add New Patient Function**
+- **List All Patients Treated by a Specific Doctor**
+- **Generate Payment Report Function**
+- **Verify the Use of Indicators for Effective Performance**
+- **Handle a Security Scenario in the Database**
 
 ---
